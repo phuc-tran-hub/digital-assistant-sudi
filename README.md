@@ -1,4 +1,5 @@
 # digital-assistant-sudi
-A week long lab building a part-of-speech digital assistant for COSC 10: Problem Solving via Object-Oriented Programming 
+A personal digital assistant named “Sudi” that tags every word in a sentence with a part of speech. The assistant is implemented by creating a hidden Markov Model and finding the best path for a given sentence through Viterbi algorithms
 
-Note from Professor Chris Bailey-Kellogg to future COSC 10 students: It is important that COSC 10 students should do it on their own as that is the real goal!
+
+As for performance, sentences that contain no words having two different part of speeches. These sentences also start with common part of speeches such as conjunctions, pronouns, and existentials. The digital assistant struggled with words that have different part of speeches ex. left can be a past tense, a past participle, and an adjective depending on the context of the sentence.
