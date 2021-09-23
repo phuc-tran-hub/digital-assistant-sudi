@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * @author Phuc Tran, Winter 2021 COSC 10, Completed for pset 5
+ * @author Phuc Tran
  */
 
 public class Viterbi {
