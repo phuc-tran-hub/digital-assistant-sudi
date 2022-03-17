@@ -14,4 +14,4 @@ As for performance, sentences that contain no words having two different part of
 
 ### Execution
 
-1. Compile viterbi.py
+1. Compile viterbi.java
