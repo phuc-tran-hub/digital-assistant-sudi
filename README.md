@@ -1,5 +1,3 @@
-# Phuc Tran
-
 ## March 2021
 
 ### Digital Assistant "Sudi"
